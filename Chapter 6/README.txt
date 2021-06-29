@@ -1,0 +1,2 @@
+This folder contains a single folder which solve all the exercises under Making a Difference in Chapter 6 of Java-How to program by Paul Deitel. The program consist of giving a quiz of 10 questions to a user and display the result. The user have to chose the type of Operation among Sum, Substraction, Division, Multiplication and a mix of all these operations.
+At the end of the quiz, the mark and percentage of the user is display

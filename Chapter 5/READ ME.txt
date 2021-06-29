@@ -1,0 +1,4 @@
+This folder contains 3 exercises under Chapter 5 of Java-How to program by Paul Deitel
+- The First exercise (Facebook): consist of finding the approximate time, the number of facebook users are going to take to reach a maximum of 1 Billion and 2 Billion
+- The second exercise (Factorail): consist of finding the factorial of any number 
+- The last exercise (ProductOfOdd): consist of finding the product of odd numbers in the range 1 to 15 inclusive
